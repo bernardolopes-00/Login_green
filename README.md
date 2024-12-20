@@ -49,4 +49,4 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e mo
 
 <a href="https://login-green-1.netlify.app/">Acessar Projeto</a>
 
-Feito com por Bernardo Lopes.
+Feito por Bernardo Lopes.
