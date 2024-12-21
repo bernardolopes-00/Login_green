@@ -21,7 +21,8 @@ Criar uma interface amigável e responsiva para prática e aprendizado de desenv
 login-page/
 ├── index.html
 ├── style.css
-├── img/bg.svg
+├── img/
+   ├── bg.svg
 └── README.md
 ```
 
