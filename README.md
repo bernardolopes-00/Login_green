@@ -49,6 +49,6 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e mo
 
 <img src="./img/mockup.svg" width="100%">
 
-<a href="https://login-green-1.netlify.app/">Acessar Projeto</a>
+<b><a href="https://login-green-1.netlify.app/">Acessar Projeto</a></b>
 
 Feito por Bernardo Lopes.
