@@ -21,6 +21,8 @@ Criar uma interface amigável e responsiva para prática e aprendizado de desenv
 login-page/
 ├── index.html
 ├── style.css
+├── img/
+   ├── bg.svg
 └── README.md
 ```
 
@@ -47,6 +49,6 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e mo
 
 <img src="./img/mockup.png" width="100%">
 
-<a href="https://login-green-1.netlify.app/">Acessar Projeto</a>
+<b><a href="https://login-green-1.netlify.app/">Acessar Projeto</a></b>
 
 Feito por Bernardo Lopes.
